@@ -14,3 +14,4 @@ def update_counting_hash(hash, key)
  end
  hash[key]
 end
+end
